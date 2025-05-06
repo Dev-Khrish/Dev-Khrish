@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khrish&label=Profile%20views&color=0e75b6&style=flat" alt="dev-khrish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-khrish" alt="dev-khrish" /></a> </p>
-
 - 🔭 I’m currently working on [Luditic Games Website](https://luditicgames.tech)
 
 - 🌱 I’m currently learning **React, Vue, GSAP Django, REST APIs Web Security & Bug Bounty DevOps basics (Render, Git, CI/CD)**
