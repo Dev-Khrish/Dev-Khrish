@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/khrish-doshi-6a1b6a320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khrish-doshi-6a1b6a320" height="30" width="40" /></a>
 <a href="https://instagram.com/spidyrockss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spidyrockss" height="30" width="40" /></a>
 <a href="https://medium.com/@spidyrockss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spidyrockss" height="30" width="40" /></a>
-<a href="https://discord.gg/spidyrockss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spidyrockss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
